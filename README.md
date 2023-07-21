@@ -5,6 +5,8 @@
 
 Dedicated to optimisation, experienced Software Engineer understands the melding of development to quickly deliver code to customers. Has experience with the RestFull API, MVC architect. Brings Bachelor’s Degree in Computer Science and Engineering and experience working as a Software Engineer since shortly after the concept was introduced.
 
+In the realm of PHP & .NET development, I possess comprehensive knowledge of PHP, JavaScript, C#, ASP.NET, ASP.NET Core, and the Entity Framework. I excel at crafting dynamic web applications, RESTful APIs, and integrating various third-party libraries and services. My understanding of object-oriented programming principles and design patterns ensures clean and maintainable code.
+
 🌱 I'm currently working as a Software Engineer:
 
 <!-- :rocket: I'm using these tools: -->
